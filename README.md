@@ -1,6 +1,9 @@
-# Front-end-developingAI-Powered Resume Analyzer 🚀
+
+🚀 AI-Powered Resume Analyzer
 
 An AI-driven web app that analyzes resumes and provides feedback to help job seekers optimize their resumes for specific job descriptions.
+
+
 
 🔥 Features
 
@@ -19,15 +22,37 @@ Database: PostgreSQL
 Hosting: Render/Vercel/GitHub Pages
 
 
-🚀 Installation
+📸 Screenshots
 
-git clone https://github.com/yourusername/resume-analyzer.git
+🚀 Installation & Setup
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/Rajuking01/Front-end-developing.git
 cd resume-analyzer
+
+2️⃣ Backend Setup
+
 pip install -r requirements.txt
+python app.py
+
+3️⃣ Frontend Setup
+
 npm install
 npm start
 
 🔗 Live Demo
 
-[Coming Soon]
+🚀 View Here (Coming Soon)
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+📩 Contact
+
+LinkedIn: Your Profile
+
+Email: dudirajesh143@gmail.com.
+
 
